@@ -11,6 +11,10 @@ In this project, we can see:
 
 * Google Maps
 
+## Update
+
+Nowadays, this application is no longer being developed because I am now interested in other projects. But in the future I will finish developing it! So this app is NOT finished yet, its in beta.
+
 ## You can see the app!
 
 ![ezgif com-video-to-gif 5](https://user-images.githubusercontent.com/20933322/34931466-f45186b8-f99c-11e7-8eda-5143fce3985b.gif)
