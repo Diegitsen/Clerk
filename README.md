@@ -10,7 +10,7 @@ The bot Clerk will help you! He will give you an advice
 In this project, we can see:
 
 * Google Maps
-* UX/UI
+* UX/UI 
 
 ## Update
 
